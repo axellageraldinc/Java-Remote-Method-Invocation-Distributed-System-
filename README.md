@@ -6,6 +6,10 @@ This is a java program which implements RMI (Remote Method Invocation). This pro
 ## Technology
 - Java
 
+## Prerequisites
+- Make sure you've installed java on your computer
+- To check java version, execute java -version on terminal
+
 ## How to run?
 1. CD to the root directory
 2. javac tugas/rmi/*.java
